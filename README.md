@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hello, I'm Mohit Shirsath  
 
-<!--
-**Masterpiece-1802/Masterpiece-1802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Computer+Engineering+Graduate;Passionate+about+Tech+Innovation;Always+Learning+%26+Building;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+- 🎓 Computer Engineering Graduate  
+- 📚 Exploring **software development**  
+- 🚀 Building skills through **hands-on projects**  
+- 💡 Passionate about **problem solving & innovation**  
+
+---
+
+## 🌱 Interests
+- Software Development  
+- Open Source Contribution  
+- Technology Innovation  
+- Building Meaningful Projects  
+
+---
+
+## 🏆 Achievements
+- 🥇 Winner – **Smart India Hackathon 2024**
+- 🏅 **Smart India Hackathon Grand Finalist 2022**  
+- 🎓 **GATE CS Qualified 2024**  
+- 🏊‍♂️ **State-Level Swimmer**  
+
+---
+
+## 📫 Let's Connect
+- 📧 [mohit.r.shirsath@gmail.com](mailto:mohit.r.shirsath@gmail.com)  
+- 🔗 [linkedin.com/in/mohitshirsath](https://linkedin.com/in/mohitshirsath)  
+- 📍 Nashik, Maharashtra  
+
+---
+
+## ⚡ Fun Facts
+- 🌐 Multilingual: English, Marathi, Hindi  
+- ✋ Basic knowledge of **Braille**  
+- 🏆 Passionate about **sports & competitions**  
+
+---
+
+✨ *“Code. Learn. Build. Repeat.”*
