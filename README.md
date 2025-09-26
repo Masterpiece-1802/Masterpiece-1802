@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mohit Shirsath  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Computer+Engineering+Graduate;Passionate+about+Tech+Innovation;Always+Learning+%26+Building;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=00F700&center=true&vCenter=true&width=600&lines=Computer+Engineering+Graduate;Passionate+about+Tech+Innovation;Always+Learning+%26+Building;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 
 ---
